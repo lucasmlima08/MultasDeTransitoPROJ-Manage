@@ -14,7 +14,7 @@ namespace Sistema_de_Multas_do_Detran
 {
     public partial class aplicacao : Form
     {
-        MySqlConnection conexao = new MySqlConnection("Server = localhost; Uid = root; Password = root; Database = SistemaDoDetran; Port = 1313");
+        MySqlConnection conexao = new MySqlConnection("Server = localhost; Uid = root; Password = root; Database = Sistema; Port = 80);
         MySqlCommand comando = new MySqlCommand();
         MySqlDataReader reader;
 
