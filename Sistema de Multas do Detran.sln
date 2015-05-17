@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema de Multas do Detran", "Sistema de Multas do Detran\Sistema de Multas do Detran.csproj", "{F14944A4-A009-4023-B2E4-1CC5D1D25443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14944A4-A009-4023-B2E4-1CC5D1D25443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14944A4-A009-4023-B2E4-1CC5D1D25443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14944A4-A009-4023-B2E4-1CC5D1D25443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14944A4-A009-4023-B2E4-1CC5D1D25443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
