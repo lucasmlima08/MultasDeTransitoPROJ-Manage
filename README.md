@@ -18,12 +18,23 @@ Desenvolvido como um projeto da universidade (Ciência da Computação - UEPB) p
 
 > Cadastros:
 
+<img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_cadProprietarios.png" width="350" />
+<img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_cVeiculo.png" width="350" />
+<img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_cLocal.png" width="350" />
 <img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_informacoes.png" width="350" />
-<img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_informacoes.png" width="350" />
-<img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_informacoes.png" width="350" /><img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_informacoes.png" width="350" />
 
 > Consultas:
 
+<img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_hmultas.png" width="350" />
+<img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_cVeiculos.png" width="350" />
+<img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_cRadares.png" width="350" />
+<img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_cProprietarios.png" width="350" />
+
 > Alterações:
 
+<img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_aProprietarios.png" width="350" />
+<img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_aRadar.png" width="350" />
+
 > Remoções:
+
+<img src="https://github.com/lucasmlima08/Sistema-Gerenciamento-Multas/blob/master/img_rVeiculo.png" width="350" />
